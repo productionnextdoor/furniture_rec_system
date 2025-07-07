@@ -1,0 +1,20 @@
+Category Consistency for 
+ 	Approach 1: 0.9602 
+ 	Approach 2: 0.9649
+
+KL Divergence between Approach 1 and 2: 0.0031
+
+Similarity Statistics - 
+ 	Approach 1 - Mean Similarity: 0.9559, Variance: 0.0009 
+ 	Approach 2 - Mean Similarity: 0.9548, Variance: 0.0009
+
+ High Quality Matches: 
+ 	Approach 1 - (> 0.8): 99.78% 
+ 	Approach 2 - (> 0.8): 99.78% 
+
+Average Nearest Neighbor Consistency (Jaccard Similarity): 0.9102
+
+Intraclass Distance: 
+ 	Approach 1: 0.8454 
+ 	Approach2: 0.8452
+
